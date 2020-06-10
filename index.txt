@@ -1,3 +1,6 @@
 primeira alteraçao no arquivo!!
 
+uma linha qualquer no meio do arquivo inserido no master
+
+
 corrigido o bug desse arquivo
